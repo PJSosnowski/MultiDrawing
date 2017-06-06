@@ -1,0 +1,9 @@
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawing\MultiDrawing\bin\Debug\MultiDrawing.exe.config
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawing\MultiDrawing\bin\Debug\MultiDrawing.exe
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawing\MultiDrawing\bin\Debug\MultiDrawing.pdb
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawing\MultiDrawing\obj\Debug\MultiDrawingClient.csprojResolveAssemblyReference.cache
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawing\MultiDrawing\obj\Debug\MultiDrawing.Form1.resources
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawing\MultiDrawing\obj\Debug\MultiDrawing.Properties.Resources.resources
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawing\MultiDrawing\obj\Debug\MultiDrawingClient.csproj.GenerateResource.Cache
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawing\MultiDrawing\obj\Debug\MultiDrawing.exe
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawing\MultiDrawing\obj\Debug\MultiDrawing.pdb

@@ -1,0 +1,6 @@
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawingServer\MultiDrawingServer\bin\Debug\MultiDrawingServer.exe.config
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawingServer\MultiDrawingServer\bin\Debug\MultiDrawingServer.exe
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawingServer\MultiDrawingServer\bin\Debug\MultiDrawingServer.pdb
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawingServer\MultiDrawingServer\obj\Debug\MultiDrawingServer.csprojResolveAssemblyReference.cache
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawingServer\MultiDrawingServer\obj\Debug\MultiDrawingServer.exe
+D:\sosenka\Nowy folder\sem4_2017\pt\lab6cs\MultiDrawingServer\MultiDrawingServer\obj\Debug\MultiDrawingServer.pdb
